@@ -1,0 +1,179 @@
+** Running: net6.0 xplat framework-dependent **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v6.0 (macOS)
+--------------------------------------------------------
+Original       | ""
+Candidate      | "/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/xplat/fxdependent"
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/xplat/fxdependent/"
+Asm.Location   | "/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/xplat/fxdependent/msal.dll"
+Asm.CodeBase   | "file:///Users/USERNAME/scratch/msal-singlefile/publish/net6.0/xplat/fxdependent/msal.dll"
+========================================================
+
+** Running: net6.0 osx-x64 **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v6.0 (macOS)
+--------------------------------------------------------
+Original       | ""
+Candidate      | "/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/osx-x64/full"
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/osx-x64/full/"
+Asm.Location   | "/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/osx-x64/full/msal.dll"
+Asm.CodeBase   | "file:///Users/USERNAME/scratch/msal-singlefile/publish/net6.0/osx-x64/full/msal.dll"
+========================================================
+
+** Running: net6.0 osx-x64 single-file **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v6.0 (macOS)
+--------------------------------------------------------
+Original       | (failed)
+Candidate      | "/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/osx-x64/singlefile/"
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/osx-x64/singlefile/"
+Asm.Location   | ""
+Asm.CodeBase   | (failed)
+========================================================
+
+** Running: net6.0 osx-x64 single-file + extract-native **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v6.0 (macOS)
+--------------------------------------------------------
+Original       | (failed)
+Candidate      | "/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/osx-x64/singlefile_extractnative/"
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/osx-x64/singlefile_extractnative/"
+Asm.Location   | ""
+Asm.CodeBase   | (failed)
+========================================================
+
+** Running: net6.0 osx-x64 single-file + extract-all **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v6.0 (macOS)
+--------------------------------------------------------
+Original       | ""
+Candidate      | "/Users/USERNAME/.net/msal/BeAM8OY8y2sDuv0C8h4AEONM5FvpxT0="
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/.net/msal/BeAM8OY8y2sDuv0C8h4AEONM5FvpxT0=/"
+Asm.Location   | "/Users/USERNAME/.net/msal/BeAM8OY8y2sDuv0C8h4AEONM5FvpxT0=/msal.dll"
+Asm.CodeBase   | "file:///Users/USERNAME/.net/msal/BeAM8OY8y2sDuv0C8h4AEONM5FvpxT0=/msal.dll"
+========================================================
+
+** Running: net5.0 xplat framework-dependent **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v5.0 (macOS)
+--------------------------------------------------------
+Original       | ""
+Candidate      | "/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/xplat/fxdependent"
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/xplat/fxdependent/"
+Asm.Location   | "/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/xplat/fxdependent/msal.dll"
+Asm.CodeBase   | "file:///Users/USERNAME/scratch/msal-singlefile/publish/net5.0/xplat/fxdependent/msal.dll"
+========================================================
+
+** Running: net5.0 osx-x64 **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v5.0 (macOS)
+--------------------------------------------------------
+Original       | ""
+Candidate      | "/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/osx-x64/full"
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/osx-x64/full/"
+Asm.Location   | "/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/osx-x64/full/msal.dll"
+Asm.CodeBase   | "file:///Users/USERNAME/scratch/msal-singlefile/publish/net5.0/osx-x64/full/msal.dll"
+========================================================
+
+** Running: net5.0 osx-x64 single-file **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v5.0 (macOS)
+--------------------------------------------------------
+Original       | (failed)
+Candidate      | "/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/osx-x64/singlefile/"
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/osx-x64/singlefile/"
+Asm.Location   | ""
+Asm.CodeBase   | (failed)
+========================================================
+
+** Running: net5.0 osx-x64 single-file + extract-native **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v5.0 (macOS)
+--------------------------------------------------------
+Original       | (failed)
+Candidate      | "/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/osx-x64/singlefile_extractnative/"
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/osx-x64/singlefile_extractnative/"
+Asm.Location   | ""
+Asm.CodeBase   | (failed)
+========================================================
+
+** Running: net5.0 osx-x64 single-file + extract-all **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v5.0 (macOS)
+--------------------------------------------------------
+Original       | ""
+Candidate      | "/Users/USERNAME/.net/msal/HweG4Y_uv96NRHabBTdNjEOhCMrCqP8="
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/.net/msal/HweG4Y_uv96NRHabBTdNjEOhCMrCqP8=/"
+Asm.Location   | "/Users/USERNAME/.net/msal/HweG4Y_uv96NRHabBTdNjEOhCMrCqP8=/msal.dll"
+Asm.CodeBase   | "file:///Users/USERNAME/.net/msal/HweG4Y_uv96NRHabBTdNjEOhCMrCqP8=/msal.dll"
+========================================================
+
+** Running: netcoreapp3.1 xplat framework-dependent **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v3.1 (macOS)
+--------------------------------------------------------
+Original       | ""
+Candidate      | "/Users/USERNAME/scratch/msal-singlefile/publish/netcoreapp3.1/xplat/fxdependent"
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/scratch/msal-singlefile/publish/netcoreapp3.1/xplat/fxdependent/"
+Asm.Location   | "/Users/USERNAME/scratch/msal-singlefile/publish/netcoreapp3.1/xplat/fxdependent/msal.dll"
+Asm.CodeBase   | "file:///Users/USERNAME/scratch/msal-singlefile/publish/netcoreapp3.1/xplat/fxdependent/msal.dll"
+========================================================
+
+** Running: netcoreapp3.1 osx-x64 **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v3.1 (macOS)
+--------------------------------------------------------
+Original       | ""
+Candidate      | "/Users/USERNAME/scratch/msal-singlefile/publish/netcoreapp3.1/osx-x64/full"
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/scratch/msal-singlefile/publish/netcoreapp3.1/osx-x64/full/"
+Asm.Location   | "/Users/USERNAME/scratch/msal-singlefile/publish/netcoreapp3.1/osx-x64/full/msal.dll"
+Asm.CodeBase   | "file:///Users/USERNAME/scratch/msal-singlefile/publish/netcoreapp3.1/osx-x64/full/msal.dll"
+========================================================
+
+** Running: netcoreapp3.1 osx-x64 single-file **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v3.1 (macOS)
+--------------------------------------------------------
+Original       | ""
+Candidate      | "/Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA="
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA=/"
+Asm.Location   | "/Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA=/msal.dll"
+Asm.CodeBase   | "file:///Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA=/msal.dll"
+========================================================
+
+** Running: netcoreapp3.1 osx-x64 single-file + extract-native **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v3.1 (macOS)
+--------------------------------------------------------
+Original       | ""
+Candidate      | "/Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA="
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA=/"
+Asm.Location   | "/Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA=/msal.dll"
+Asm.CodeBase   | "file:///Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA=/msal.dll"
+========================================================
+
+** Running: netcoreapp3.1 osx-x64 single-file + extract-all **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v3.1 (macOS)
+--------------------------------------------------------
+Original       | ""
+Candidate      | "/Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA="
+--------------------------------------------------------
+AppCxt.BaseDir | "/Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA=/"
+Asm.Location   | "/Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA=/msal.dll"
+Asm.CodeBase   | "file:///Users/USERNAME/.net/msal/zpq4_BdPhsoOTo3n9mdSd2DquKwS5BA=/msal.dll"
+========================================================
