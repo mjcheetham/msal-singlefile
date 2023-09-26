@@ -1,0 +1,311 @@
+** Running: net6.0 xplat framework-dependent **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v6.0 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\xplat\fxdependent"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\xplat\fxdependent"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\xplat\fxdependent\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\xplat\fxdependent\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/xplat/fxdependent/msal.dll"
+========================================================
+
+** Running: net6.0 xplat self-contained **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v6.0 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\xplat\selfcontained"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\xplat\selfcontained"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\xplat\selfcontained\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\xplat\selfcontained\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/xplat/selfcontained/msal.dll"
+========================================================
+
+** Running: net6.0 win-x64 **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v6.0 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\win-x64\full"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\win-x64\full"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\win-x64\full\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\win-x64\full\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net6.0/win-x64/full/msal.dll"
+========================================================
+
+** Running: net6.0 win-x64 single-file **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v6.0 (Windows)
+--------------------------------------------------------
+Original       | (failed)
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\win-x64\singlefile\"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\win-x64\singlefile\"
+Asm.Location   | ""
+Asm.CodeBase   | (failed)
+========================================================
+
+** Running: net6.0 win-x64 single-file + extract-native **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v6.0 (Windows)
+--------------------------------------------------------
+Original       | (failed)
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\win-x64\singlefile_extractnative\"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net6.0\win-x64\singlefile_extractnative\"
+Asm.Location   | ""
+Asm.CodeBase   | (failed)
+========================================================
+
+** Running: net6.0 win-x64 single-file + extract-all **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v6.0 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\Kx0ndcOF_69FH7keMwUa_Tr0pA3R7kY="
+Candidate      | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\Kx0ndcOF_69FH7keMwUa_Tr0pA3R7kY="
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\Kx0ndcOF_69FH7keMwUa_Tr0pA3R7kY=\"
+Asm.Location   | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\Kx0ndcOF_69FH7keMwUa_Tr0pA3R7kY=\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/AppData/Local/Temp/.net/msal/Kx0ndcOF_69FH7keMwUa_Tr0pA3R7kY=/msal.dll"
+========================================================
+
+** Running: net5.0 xplat framework-dependent **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v5.0 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\xplat\fxdependent"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\xplat\fxdependent"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\xplat\fxdependent\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\xplat\fxdependent\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/xplat/fxdependent/msal.dll"
+========================================================
+
+** Running: net5.0 xplat self-contained **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v5.0 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\xplat\selfcontained"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\xplat\selfcontained"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\xplat\selfcontained\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\xplat\selfcontained\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/xplat/selfcontained/msal.dll"
+========================================================
+
+** Running: net5.0 win-x64 **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v5.0 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\win-x64\full"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\win-x64\full"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\win-x64\full\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\win-x64\full\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net5.0/win-x64/full/msal.dll"
+========================================================
+
+** Running: net5.0 win-x64 single-file **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v5.0 (Windows)
+--------------------------------------------------------
+Original       | (failed)
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\win-x64\singlefile\"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\win-x64\singlefile\"
+Asm.Location   | ""
+Asm.CodeBase   | (failed)
+========================================================
+
+** Running: net5.0 win-x64 single-file + extract-native **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v5.0 (Windows)
+--------------------------------------------------------
+Original       | (failed)
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\win-x64\singlefile_extractnative\"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net5.0\win-x64\singlefile_extractnative\"
+Asm.Location   | ""
+Asm.CodeBase   | (failed)
+========================================================
+
+** Running: net5.0 win-x64 single-file + extract-all **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v5.0 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\P2HR+sehz_SJSrbpD_j0qOpnFNK1mNc="
+Candidate      | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\P2HR+sehz_SJSrbpD_j0qOpnFNK1mNc="
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\P2HR+sehz_SJSrbpD_j0qOpnFNK1mNc=\"
+Asm.Location   | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\P2HR+sehz_SJSrbpD_j0qOpnFNK1mNc=\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/AppData/Local/Temp/.net/msal/P2HR+sehz_SJSrbpD_j0qOpnFNK1mNc=/msal.dll"
+========================================================
+
+** Running: netcoreapp3.1 xplat framework-dependent **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v3.1 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\xplat\fxdependent"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\xplat\fxdependent"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\xplat\fxdependent\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\xplat\fxdependent\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/netcoreapp3.1/xplat/fxdependent/msal.dll"
+========================================================
+
+** Running: netcoreapp3.1 xplat self-contained **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v3.1 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\xplat\selfcontained"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\xplat\selfcontained"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\xplat\selfcontained\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\xplat\selfcontained\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/netcoreapp3.1/xplat/selfcontained/msal.dll"
+========================================================
+
+** Running: netcoreapp3.1 win-x64 **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v3.1 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\win-x64\full"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\win-x64\full"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\win-x64\full\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\netcoreapp3.1\win-x64\full\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/netcoreapp3.1/win-x64/full/msal.dll"
+========================================================
+
+** Running: netcoreapp3.1 win-x64 single-file **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v3.1 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE="
+Candidate      | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE="
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE=\"
+Asm.Location   | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE=\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/AppData/Local/Temp/.net/msal/HWJYhNuY_SwKCuCuipRr0wTsM_jJomE=/msal.dll"
+========================================================
+
+** Running: netcoreapp3.1 win-x64 single-file + extract-native **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v3.1 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE="
+Candidate      | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE="
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE=\"
+Asm.Location   | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE=\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/AppData/Local/Temp/.net/msal/HWJYhNuY_SwKCuCuipRr0wTsM_jJomE=/msal.dll"
+========================================================
+
+** Running: netcoreapp3.1 win-x64 single-file + extract-all **
+========================================================
+Framwork/OS    | .NETCoreApp,Version=v3.1 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE="
+Candidate      | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE="
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE=\"
+Asm.Location   | "C:\Users\USERNAME\AppData\Local\Temp\.net\msal\HWJYhNuY_SwKCuCuipRr0wTsM_jJomE=\msal.dll"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/AppData/Local/Temp/.net/msal/HWJYhNuY_SwKCuCuipRr0wTsM_jJomE=/msal.dll"
+========================================================
+
+** Running: net461 anycpu **
+========================================================
+Framwork/OS    | .NET Framework 4.0.30319.42000 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\anycpu"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\anycpu"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\anycpu\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\anycpu\msal.exe"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net461/anycpu/msal.exe"
+========================================================
+
+** Running: net461 x86 **
+========================================================
+Framwork/OS    | .NET Framework 4.0.30319.42000 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\x86"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\x86"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\x86\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\x86\msal.exe"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net461/x86/msal.exe"
+========================================================
+
+** Running: net461 x64 **
+========================================================
+Framwork/OS    | .NET Framework 4.0.30319.42000 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\x64"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\x64"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\x64\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\x64\msal.exe"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net461/x64/msal.exe"
+========================================================
+
+** Running: net461 anycpu+prefer32 **
+========================================================
+Framwork/OS    | .NET Framework 4.0.30319.42000 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\anycpu_prefer32"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\anycpu_prefer32"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\anycpu_prefer32\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net461\anycpu_prefer32\msal.exe"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net461/anycpu_prefer32/msal.exe"
+========================================================
+
+** Running: net472 anycpu **
+========================================================
+Framwork/OS    | .NET Framework 4.0.30319.42000 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\anycpu"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\anycpu"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\anycpu\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\anycpu\msal.exe"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net472/anycpu/msal.exe"
+========================================================
+
+** Running: net472 x86 **
+========================================================
+Framwork/OS    | .NET Framework 4.0.30319.42000 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\x86"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\x86"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\x86\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\x86\msal.exe"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net472/x86/msal.exe"
+========================================================
+
+** Running: net472 x64 **
+========================================================
+Framwork/OS    | .NET Framework 4.0.30319.42000 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\x64"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\x64"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\x64\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\x64\msal.exe"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net472/x64/msal.exe"
+========================================================
+
+** Running: net472 anycpu+prefer32 **
+========================================================
+Framwork/OS    | .NET Framework 4.0.30319.42000 (Windows)
+--------------------------------------------------------
+Original       | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\anycpu_prefer32"
+Candidate      | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\anycpu_prefer32"
+--------------------------------------------------------
+AppCxt.BaseDir | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\anycpu_prefer32\"
+Asm.Location   | "C:\Users\USERNAME\scratch\msal-singlefile\publish\net472\anycpu_prefer32\msal.exe"
+Asm.CodeBase   | "file:///C:/Users/USERNAME/scratch/msal-singlefile/publish/net472/anycpu_prefer32/msal.exe"
+========================================================
